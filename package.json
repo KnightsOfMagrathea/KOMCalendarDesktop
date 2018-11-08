@@ -1,0 +1,15 @@
+{
+  "name": "KOMCalendarDesktop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:KnightsOfMagrathea/KOMCalendarDesktop.git",
+  "author": "Darren Divecha <ddivecs@gmail.com>",
+  "license": "MIT",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron": "^3.0.8"
+  }
+}
